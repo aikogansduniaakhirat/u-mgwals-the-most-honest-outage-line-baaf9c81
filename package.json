@@ -1,0 +1,11 @@
+{
+  "name": "u-mgwals-the-most-honest-outage-line-baaf9c81",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The most honest status page line an AI agent can publish during a total outage, composed from a record of what it can and cannot see.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
